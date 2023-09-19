@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{3DA3964C-F229-45C7-AEEA-7FA33591F997}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BookQuotes PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookQuotes/wwwroot/css/site.css">
+    <Files>
+      <File FileName="BookQuotes/Views/Home/Index.cshtml" />
+      <File FileName="BookQuotes/Views/Home/Privacy.cshtml" />
+      <File FileName="BookQuotes/Controllers/HomeController.cs" />
+      <File FileName="BookQuotes/Models/Quote.cs" />
+      <File FileName="BookQuotes/Data/Migrations/20230828022133_initialsetup.cs" />
+      <File FileName="BookQuotes/Views/_ViewImports.cshtml" />
+      <File FileName="BookQuotes/Views/Shared/_Layout.cshtml.css" />
+      <File FileName="BookQuotes/Views/Shared/_Layout.cshtml" />
+      <File FileName="BookQuotes/Controllers/QuotesController.cs" />
+      <File FileName="BookQuotes/Views/Quotes/Create.cshtml" />
+      <File FileName="BookQuotes/Views/Quotes/Delete.cshtml" />
+      <File FileName="BookQuotes/Views/Quotes/Details.cshtml" />
+      <File FileName="BookQuotes/Views/Quotes/Edit.cshtml" />
+      <File FileName="BookQuotes/Views/Quotes/Index.cshtml" />
+      <File FileName="BookQuotes/Views/Shared/_LoginPartial.cshtml" />
+      <File FileName="BookQuotes/Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="BookQuotes/Views/_ViewStart.cshtml" />
+      <File FileName="BookQuotes/Models/ErrorViewModel.cs" />
+      <File FileName="BookQuotes/Views/Shared/Error.cshtml" />
+      <File FileName="BookQuotes/Program.cs" />
+      <File FileName="BookQuotes/wwwroot/css/site.css" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookQuotes" expanded="True">
+            <Node name="BookQuotes" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="site.css" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
